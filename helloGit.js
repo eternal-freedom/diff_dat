@@ -1,4 +1,7 @@
-console.log('hello Git!');
-const a = 7;
-const b = 8;
-console.log(a+b);
+console.log('Hello Git!!!');
+console.log('Hello GitHub');
+var a = 8;
+var b = 7;
+if (a > b) {
+  console.log('a > b');
+}
